@@ -1,16 +1,26 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**douglasbc93/douglasbc93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Sobre Mim
+Olá, sou Douglas, um entusiasta de tecnologia em transição de carreira, atualmente em busca de um estágio na área de desenvolvimento.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades
+- 💻 **Linguagens de Programação:** Python, C#, JavaScript
+- 🌐 **Web Development:** HTML, CSS
+- 🗃️ **Banco de Dados:** MySQL
+- 🔄 **Controle de Versão:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente Estudando
+- 🐍 **Python:** Explorando diversos conceitos.
+
+## 🌱 Próximos Passos
+- 🌐 **Django:** Iniciar os estudos no framework Django.
+
+## 🤝 Colaboração
+Estou aberto a colaborações e aprendizado conjunto. Se você tem dicas, sugestões ou gostaria de colaborar em algum projeto, sinta-se à vontade para entrar em contato!
+
+## 📫 Entre em Contato
+- LinkedIn: https://www.linkedin.com/in/douglasbc93/
+- Email: douglasborges.nave@gmail.com
+
+Vamos aprender e crescer juntos! 🚀
+
