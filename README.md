@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil no GitHub!
 
 ## 👋 Sobre Mim
-Olá, sou Douglas, um entusiasta de tecnologia em transição de carreira, atualmente em busca de um estágio na área de desenvolvimento.
+Olá! Sou Douglas, um estudante de tecnologia em transição de carreira, atualmente em busca de um estágio na área de desenvolvimento.
 
 ## 🚀 Habilidades
 - 💻 **Linguagens de Programação:** Python, C#, JavaScript
@@ -21,6 +21,3 @@ Estou aberto a colaborações e aprendizado conjunto. Se você tem dicas, sugest
 ## 📫 Entre em Contato
 - LinkedIn: https://www.linkedin.com/in/douglasbc93/
 - Email: douglasborges.nave@gmail.com
-
-Vamos aprender e crescer juntos! 🚀
-
