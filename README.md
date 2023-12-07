@@ -4,7 +4,7 @@
 Olá! Sou Douglas, um estudante de tecnologia em transição de carreira, atualmente em busca de um estágio na área de desenvolvimento.
 
 ## 🚀 Habilidades
-- 💻 **Linguagens de Programação:** Python, C#, JavaScript
+- 💻 **Linguagens de Programação:** Python e JavaScript
 - 🌐 **Web Development:** HTML, CSS
 - 🗃️ **Banco de Dados:** MySQL
 - 🔄 **Controle de Versão:** Git
